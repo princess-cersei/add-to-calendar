@@ -8,7 +8,7 @@ UID:event-001@princess-cersei.github.io
 DTSTAMP:20251201T120000Z
 DTSTART:20251220T150000Z
 DTEND:20251220T160000Z
-SUMMARY:My First Event
+SUMMARY:My Second Event
 DESCRIPTION:This event updates automatically
 LOCATION:Online
 END:VEVENT
