@@ -6,7 +6,7 @@ METHOD:PUBLISH
 
 BEGIN:VEVENT
 UID:psychosocial-rounds-2026jan15@princess-cersei.github.io
-DTSTAMP:20251219T170000Z
+DTSTAMP:20251219T180000Z
 DTSTART:20260115T183000Z
 DTEND:20260115T193000Z
 SUMMARY:Psychosocial Rounds: "Youth's Conceptualization of Mental Health"
@@ -22,7 +22,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:psychosocial-rounds-2026jan22@princess-cersei.github.io
-DTSTAMP:20251219T170000Z
+DTSTAMP:20251219T180000Z
 DTSTART:20260122T183000Z
 DTEND:20260122T200000Z
 SUMMARY:Psychosocial Rounds: "Preventing HPV"
@@ -38,15 +38,12 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:cultural-rounds-2026jan29@princess-cersei.github.io
-DTSTAMP:20251219T170000Z
+DTSTAMP:20251219T180000Z
 DTSTART:20260129T183000Z
 DTEND:20260129T200000Z
 SUMMARY:Cultural Rounds: "Cultural Variations in Psychosis"
 LOCATION:ICFP Amphitheatre (Ground Floor), 4333 Côte-Ste-Catherine Rd, Montreal, QC H3T 1E4
-URL:https://us06web.zoom.us/j/88488947071?pwd=SfbahYa0VEe7nCL2Hbc1aA6bXzfZeR.1
-DESCRIPTION:Chair: Laurence J. Kirmayer, MD\nSpeaker: G. Eric Jarvis, MD\n\nLearning objectives:\nTo understand the historical and cultural context of the development of disorders like schizophrenia;\nTo learn how culture influences the expression of psychotic symptoms; and\nTo appreciate the impact of culture on help-seeking and treatment of psychotic disorders.\n\nHybrid event\n\nZoom link: https://us06web.zoom.us/j/88488947071?pwd=SfbahYa0VEe7nCL2Hbc1aA6bXzfZeR.1\nMeeting ID: 884 8894 7071\nAccess code: 984533
-BEGIN:VALARM
-TRIGGER:-PT15M
+DESCRIPTION:Chair: Laurence J. Kirmayer, MD\nSpeaker: G. Eric Jarvis, MD\n\nLearning objectives:\n- To understand the historical and cultural context of the development of disorders like schizophrenia;\n- To learn how culture influences the expression of psychotic symptoms; and\n- To appreciate the impact of culture on help-seeking and treatment of psychotic disorders.\n\nIn-person only.
 ACTION:DISPLAY
 DESCRIPTION:Starts in 15 minutes
 END:VALARM
