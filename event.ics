@@ -1,36 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Add to Calendar Demo//EN
+PRODID:-//Rounds//Add to Calendar//EN
 METHOD:PUBLISH
 
 BEGIN:VEVENT
-UID:event-001@princess-cersei.github.io
-DTSTAMP:20251201T120000Z
-DTSTART:20251220T150000Z
-DTEND:20251220T160000Z
-SUMMARY:First Event
-DESCRIPTION:Intro session
-LOCATION:Online
-END:VEVENT
-
-BEGIN:VEVENT
-UID:event-002@princess-cersei.github.io
-DTSTAMP:20251201T120000Z
-DTSTART:20251225T180000Z
-DTEND:20251225T190000Z
-SUMMARY:Second Event
-DESCRIPTION:Follow-up session
-LOCATION:Online
-END:VEVENT
-
-BEGIN:VEVENT
-UID:event-003@princess-cersei.github.io
-DTSTAMP:20251201T120000Z
-DTSTART:20260105T170000Z
-DTEND:20260105T180000Z
-SUMMARY:Third Event
-DESCRIPTION:Live Q&A
-LOCATION:Online
+UID:psychosocial-rounds-2026jan22@princess-cersei.github.io
+DTSTAMP:20251218T180000Z
+DTSTART:20260122T183000Z
+DTEND:20260122T200000Z
+SUMMARY:Psychosocial Rounds — Preventing HPV
+LOCATION:ICFP Amphitheatre (Ground Floor), 4333 Côte-Ste-Catherine Rd, Montreal, QC H3T 1E4
+URL:https://us06web.zoom.us/j/88488947071?pwd=SfbahYa0VEe7nCL2Hbc1aA6bXzfZeR.1
+DESCRIPTION:Theme: Preventing HPV\n\nChair: Dr. David Dunkley, PhD\nSpeaker: Dr. Zeev Rosberger, PhD\n\nHybrid event (in-person & Zoom)\n\nZoom link: https://us06web.zoom.us/j/88488947071?pwd=SfbahYa0VEe7nCL2Hbc1aA6bXzfZeR.1\nMeeting ID: 884 8894 7071\nAccess code: 984533
 END:VEVENT
 
 END:VCALENDAR
+
